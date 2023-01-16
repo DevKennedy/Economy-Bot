@@ -44,4 +44,4 @@ fs.readdir("./commands/", (err, files) => {
 //Coded By Unknown Dev
 
 
-client.login("");
+client.login("MTA2MzIxMTAyOTAzNjc5Mzk4Ng.GFbeo8.uizWGxYj_KG2Lqcmc9w-38CehYyQsSEUIdbM8k");
