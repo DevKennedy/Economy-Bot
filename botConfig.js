@@ -1,11 +1,11 @@
-module.exports = {
-    token: "Token Bot",
-    prefix: "Prefix Bot",
+ module.exports = {
+    token: "MTA2MzIxMTAyOTAzNjc5Mzk4Ng.GFbeo8.uizWGxYj_KG2Lqcmc9w-38CehYyQsSEUIdbM8k",
+    prefix: "$help",
     admins: [
-        "Admin Id"
+        "1014229255288274944"
 ],
     debug: true,
-    countChannel: "countChannelID"
+    countChannel: "1060280314158665798"
 };
 
 
